@@ -38,7 +38,7 @@ Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
-  - Photo Wordpress Addon - Bloodrush.com As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
+  - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
 </p>
 
 
