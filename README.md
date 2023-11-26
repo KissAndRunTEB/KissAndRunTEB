@@ -31,9 +31,16 @@
 
 ###
 
-<p align="left">A few words about my projects: <br>- Project X - Bloodrush.com website (Wagtail + Django + Python). Uses Tailwind. News page about gaming, Cookie Break podcast, Team Elder Blood streamers, events & more.
 
-Running here: https://bloodrush.gg</p>
+<p align="left">
+  - Project X - Bloodrush.com website (Wagtail + Django + Python). Uses Tailwind. News page about gaming, Cookie Break podcast, Team Elder Blood streamers, events & more.
+Running here: https://bloodrush.gg
+</p>
+
+<p align="left">
+  - Photo Wordpress Addon - Bloodrush.com As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
+</p>
+
 
 ###
 
