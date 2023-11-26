@@ -138,6 +138,26 @@ Running here: https://bloodrush.gg
 
 ###
 
+<h3 align="left">⚡  Certificates</h3>
+<p align="left">
+  - Python
+</p>
+<p align="left">
+  - Django web apps
+</p>
+<p align="left">
+  - React
+</p>
+<p align="left">
+  - TypeScript
+</p>
+<p align="left">
+  - BEM methodology
+</p>
+
+###
+
+
 <!--
 **KissAndRunTEB/KissAndRunTEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
