@@ -41,6 +41,11 @@ Running here: https://bloodrush.gg
   - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
 </p>
 
+<p align="left">
+  - Mad Gains Esport Manager (C#, .NET, WPF, threads, libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for the game Gwent).
+</p>
+
+
 
 ###
 
