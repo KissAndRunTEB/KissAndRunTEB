@@ -42,7 +42,7 @@ Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
-  - Mad Gains Esport Manager (C#, .NET, WPF, threads, libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for the game Gwent).
+  - Mad Gains Esport Manager (C#, .NET, WPF, threads, libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for team Elder Blood https://www.teamelderblood.com/ and the game Gwent).
 </p>
 
 
