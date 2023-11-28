@@ -45,6 +45,9 @@ Running here: https://bloodrush.gg
   - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
 </p>
 
+<p align="left">
+  - Tic Tac Toe Game - Console game written in Python. 
+</p>
 
 
 ###
