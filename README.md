@@ -33,22 +33,22 @@
 
 
 <p align="left">
-  - Project X - Bloodrush.com website (Wagtail + Django + Python). Uses Tailwind. News page about gaming, Cookie Break podcast, Team Elder Blood streamers, events & more.
+  - Project X - Bloodrush.com website (Wagtail + Django + Python + Tailwind). News page about gaming, Cookie Break podcast, Team Elder Blood streamers, events & more.
 Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
-  - Mad Gains Esport Manager (C#, .NET, WPF, threads, libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for team Elder Blood and the game Gwent).
+  - Mad Gains Esport Manager (C# + .NET + WPF + threads + libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for team Elder Blood and the game Gwent).
 </p>
 
 <p align="left">
-  - Serialomaniak (C#, .NET, WPF, threads, libraries for scraping) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
+  - Serialomaniak (C# + .NET + WPF + threads + libraries for scraping) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
 
 Additionally, Serialomaniak aggregates news, updates, and promotional materials from TV shows. It offers personalized show recommendations based on your preferences. Moreover, the app facilitates conversations with friends about specific episodes.
 </p>
 
 <p align="left">
-  - Site Corrector (C#, .NET, WPF, class libraries, multi-threading, compression, FTP, and parsing) is an application designed to enhance website performance for better SEO and faster browsing experiences.
+  - Site Corrector (C# + .NET + WPF + class libraries + multi-threading + compression + FTP + parsing) is an application designed to enhance website performance for better SEO and faster browsing experiences.
 
 The app facilitates the optimization process by downloading website code from the FTP server, performing various fixes, and subsequently uploading the optimized content. These fixes include compressing JPG and PNG images, and minifying CSS, JS, and HTML files to reduce load times.
 
@@ -58,15 +58,15 @@ Additionally, Site Corrector generates a sitemap file to improve search engine i
 
 
 <p align="left">
-  - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
+  - Photo Wordpress Addon - As part of the Wordpress CMS (PHP + CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
 </p>
 
 <p align="left">
-  - TeamMVVM (C#, .NET, MVVM, WPF) app allowing storing team players data to txt and xml files. Presentation of MVVM use (ObservableCollections, ICommand, custom TextBox with error validation).
+  - TeamMVVM (C# + .NET + MVVM + WPF) app allowing storing team players data to txt and xml files. Presentation of MVVM use (ObservableCollections, ICommand, custom TextBox with error validation).
 </p>
 
 <p align="left">
-  - Tic Tac Toe Game - Console game written in Python. 
+  - Tic Tac Toe Game (Python) Console game written in Python. 
 </p>
 
 
