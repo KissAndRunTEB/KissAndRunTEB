@@ -46,6 +46,10 @@ Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
+  - TeamMVVM (C#, .NET, MVVM, WPF) app allowing storing team players data to txt and xml files. Presentation of MVVM use (ObservableCollections, ICommand, custom TextBox with error validation).
+</p>
+
+<p align="left">
   - Tic Tac Toe Game - Console game written in Python. 
 </p>
 
