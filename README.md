@@ -44,8 +44,18 @@ Running here: https://bloodrush.gg
 <p align="left">
   - Serialomaniak (C#, .NET, WPF, threads, libraries for scraping) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
 
-Additionally, Serialomaniak aggregates news, updates and promotional materials from TV shows. It offers personalized show recommendations based on your preferences. Moreover, the app facilitates conversations with friends about specific episodes.
+Additionally, Serialomaniak aggregates news, updates, and promotional materials from TV shows. It offers personalized show recommendations based on your preferences. Moreover, the app facilitates conversations with friends about specific episodes.
 </p>
+
+<p align="left">
+  - Site Corrector (C#, .NET, WPF, class libraries, multi-threading, compression, FTP, and parsing) is an application designed to enhance website performance for better SEO and faster browsing experiences.
+
+The app facilitates the optimization process by downloading website code from the FTP server, performing various fixes, and subsequently uploading the optimized content. These fixes include compressing JPG and PNG images, and minifying CSS, JS, and HTML files to reduce load times.
+
+Additionally, Site Corrector generates a sitemap file to improve search engine indexing and optimizes the robots.txt file for better crawler guidance. It assists in keyword optimization to enhance website visibility and ranking on search engines.
+
+</p>
+
 
 <p align="left">
   - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
