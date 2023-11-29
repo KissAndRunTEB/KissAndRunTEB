@@ -38,11 +38,11 @@ Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
-  - Mad Gains Esport Manager (C# + .NET + WPF + threads + libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for team Elder Blood and the game Gwent).
+  - Mad Gains Esport Manager (C# + .NET + WPF + multi-threading + libraries for scraping) allows tracking match results for players and decks. It scraps the website to get the current results of team players (currently set up for team Elder Blood and the game Gwent).
 </p>
 
 <p align="left">
-  - Serialomaniak (C# + .NET + WPF + threads + libraries for scraping) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
+  - Serialomaniak (C# + .NET + WPF + class libraries + multi-threading + libraries for scraping) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
 
 Additionally, Serialomaniak aggregates news, updates, and promotional materials from TV shows. It offers personalized show recommendations based on your preferences. Moreover, the app facilitates conversations with friends about specific episodes.
 </p>
@@ -55,7 +55,6 @@ The app facilitates the optimization process by downloading website code from th
 Additionally, Site Corrector generates a sitemap file to improve search engine indexing and optimizes the robots.txt file for better crawler guidance. It assists in keyword optimization to enhance website visibility and ranking on search engines.
 
 </p>
-
 
 <p align="left">
   - Photo Wordpress Addon - As part of the Wordpress CMS (PHP + CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
