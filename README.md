@@ -42,6 +42,12 @@ Running here: https://bloodrush.gg
 </p>
 
 <p align="left">
+  - Serialomaniak (C#, .NET, WPF) is an application designed to help you track your favorite shows and keep note of the last episode you watched. The app provides comprehensive information about various shows and their episodes, notifies you about new episodes, and suggests platforms where you can watch them.
+
+Additionally, Serialomaniak aggregates news, updates and promotional materials from TV shows. It offers personalized show recommendations based on your preferences. Moreover, the app facilitates conversations with friends about specific episodes.
+</p>
+
+<p align="left">
   - Photo Wordpress Addon - As part of the Wordpress CMS (PHP, CMB2 library), functionality that allows you to mark a photo with additional information whether it is a drastic photo or not.
 </p>
 
