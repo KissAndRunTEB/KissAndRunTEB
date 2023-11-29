@@ -164,6 +164,9 @@ Running here: https://bloodrush.gg
   - TypeScript
 </p>
 <p align="left">
+  - Microsoft SQL Server
+</p>
+<p align="left">
   - BEM methodology
 </p>
 
