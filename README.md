@@ -33,11 +33,7 @@
 
 
 <p align="left">
-  - Sentiment Recognition (AI + Python + Flask + Tensorflow + Pandas + Numpy) app that creates, trains, and evaluates a sentiment analysis model using TensorFlow/Keras. The model is designed to predict sentiment (negative, neutral, positive) based on text input. App works in two mods:
-
-    1. Console application that let you check sentiment on any provided text. This mode also allows to train model if it doesn't find it in folder of the app.
-
-    2. Flask web application that integrates sentiment analysis functionality with YouTube comments to provide sentiment predictions and a summary for a given YouTube video.
+  - Sentiment Recognition (AI + Python + Flask + Tensorflow + Pandas + Numpy) app that creates, trains, and evaluates a sentiment analysis model using TensorFlow/Keras. The model is designed to predict sentiment (negative, neutral, positive) based on text input. Console application lets you check sentiment on any provided text. This mode also allows to train model if it doesn't find it in folder of the app. Flask web application integrates sentiment analysis functionality with YouTube comments to provide sentiment predictions and a summary for a given YouTube video.
 </p>
 
 <p align="left">
